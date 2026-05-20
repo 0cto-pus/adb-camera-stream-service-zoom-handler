@@ -1,4 +1,4 @@
-# Camera Stream and Auto Zoom Android On Android
+# Camera Stream and Auto Zoom On Android
 
 ## Features
 
